@@ -1,0 +1,82 @@
+@font-face {
+    font-family:  test;
+    src: local('../Galvanize/Q1_Project/Lightsaber OTF TTF WOFF/Lightsaber.woff'), url('../Galvanize/Q1_Project/Lightsaber OTF TTF WOFF/Lightsaber.woff') format('woff')
+}
+
+h1 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 100px;
+}
+
+#chooseSong {
+    width: 400px;
+    height: 400px;
+    border: lightblue dotted;
+}
+
+.song {
+    width: 100px;
+    height: 100px;
+    border: lightblue dotted;
+    
+}
+
+#song1 {
+    background-color: aqua;
+    float: left;
+    position: absolute;
+}
+
+#song2 {
+    background-color: cadetblue;
+    float: left;
+    position: absolute;
+}
+
+#song3 {
+    background-color: darkslategray;
+    float: left;
+    position: absolute;
+}
+
+#song4 {
+    background-color: midnightblue;
+    float: left;
+    position: absolute;
+}
+
+#song5 {
+    background-color: black;
+    float: left;
+    position: absolute;
+}
+
+#song6 {
+    background-color: aqua;
+    float: left;
+    position: absolute;
+}
+
+#song7 {
+    background-color: cadetblue;
+    float: left;
+    position: absolute;
+}
+
+#song8 {
+    background-color: darkslategray;
+    float: left;
+    position: absolute;
+}
+
+#song9 {
+    background-color: midnightblue;
+    float: left;
+    position: absolute;
+}
+
+#song10 {
+    background-color: black;
+    float: left;
+    position: absolute;
+}

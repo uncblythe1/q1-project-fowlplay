@@ -1,7 +1,8 @@
 document.addEventListener('DOMContentLoaded',()=>{
     let can = document.getElementsByTagName('canvas');
 
-    can[0].width = window.innerWidth;
+	can[0].width = window.innerWidth;
+	can[0].height = window.innerHeight;
 // //    let mp3Player = document.getElementById('mp3_player');
 //    mp3Player[0].width = window.innerWidth;
 
